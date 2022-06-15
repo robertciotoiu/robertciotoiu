@@ -9,19 +9,14 @@
 - 📊⛏  Data Processing and Analysis
 - ⚙️🧪  CI/CD and Testing
 </br>
-<br>
 
 📖 <b>Currently learning and improving on Spring Boot, GraphQL, MongoDB, Docker and K8s</b>
 
-</br>
-
 🤝 <b>I’m looking to build and contribute to 🚀*revolutionary projects*🚀</b>
-
-</br>
 
 📫 <b>Reach me at: robert.ciotoiu@gmail.com</b>
 
-</br></br>
+</br>
 
 </p>
 <h3 align="left">Languages & Frameworks:</h3>
